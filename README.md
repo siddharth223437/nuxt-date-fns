@@ -15,15 +15,15 @@
 1. Install `nuxt-date-fns` as development dependency:
 
 ```bash
-npm i nuxt-date-fns -D
+npm i nuxt3-date-fns -D
 ```
 
 ```bash
-yarn add nuxt-date-fns -D
+yarn add nuxt3-date-fns -D
 ```
 
 ```bash
-pnpm i nuxt-date-fns -D
+pnpm i nuxt3-date-fns -D
 ```
 
 2. Add it to the `modules` section of your `nuxt.config`:
@@ -59,7 +59,7 @@ Use any [Date-Fns](https://date-fns.org/) methods in your Nuxt application, they
 
 ```ts
 export default defineNuxtConfig({
-  modules: ["nuxt-date-fns"],
+  modules: ["nuxt3-date-fns"],
   "date-fns": {
     prefix: "_",
   },

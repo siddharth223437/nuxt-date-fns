@@ -15,7 +15,7 @@ export interface ModuleOptions {
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: 'nuxt-date-fns',
+    name: 'nuxt3-date-fns',
     configKey: 'date-fns',
     compatibility: {
       nuxt: '^3.0.0'
