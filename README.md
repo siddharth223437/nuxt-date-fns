@@ -30,7 +30,7 @@ pnpm i nuxt3-date-fns -D
 
 ```ts
 export default defineNuxtConfig({
-  modules: ["nuxt-date-fns"],
+  modules: ["nuxt3-date-fns"],
 });
 ```
 
