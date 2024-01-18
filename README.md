@@ -1,9 +1,9 @@
  <h1>date-fns for Nuxt</h1>
 
 <p>
-  <a href="https://www.npmjs.com/package/nuxt-lodash"><img src="https://badgen.net/npm/v/nuxt-lodash" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/nuxt-lodash"><img src="https://badgen.net/npm/license/nuxt-lodash" alt="License"></a>
-  <a href="https://www.npmjs.com/package/nuxt-lodash"><img src="https://badgen.net/npm/types/nuxt-lodash" alt="Types"></a>
+  <a href="https://www.npmjs.com/package/nuxt3-date-fns"><img src="https://badgen.net/badge/npm/v9.6.6" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/nuxt3-date-fns"><img src="https://badgen.net/badge/license/MIT" alt="License"></a>
+  <a href="https://www.npmjs.com/package/nuxt3-date-fns"><img src="https://badgen.net/badge/types/Included" alt="Types"></a>
 </p>
 
 ## 💡 About
@@ -16,6 +16,14 @@
 
 ```bash
 npm i nuxt-date-fns -D
+```
+
+```bash
+yarn add nuxt-date-fns -D
+```
+
+```bash
+pnpm i nuxt-date-fns -D
 ```
 
 2. Add it to the `modules` section of your `nuxt.config`:
@@ -60,4 +68,4 @@ export default defineNuxtConfig({
 
 ## 📄 License
 
-[MIT License](https://github.com/cipami/nuxt-lodash/blob/master/LICENSE) © 2021-2022 - [Michal Čípa](https://github.com/cipami)
+[MIT License](https://github.com/siddharth223437/nuxt-date-fns/blob/master/LICENSE) © 2024 - [Siddharth Sarathe](https://github.com/siddharth223437)

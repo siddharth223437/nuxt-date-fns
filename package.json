@@ -1,9 +1,10 @@
 {
-  "name": "nuxt-date-fns",
-  "version": "1.0.0",
+  "name": "nuxt3-date-fns",
+  "version": "0.1.0",
   "description": "date-fns for Nuxt",
   "keywords": [
     "nuxt",
+    "nuxt3",
     "nuxt-module",
     "date-fns"
   ],
